@@ -19,7 +19,7 @@ First of all we need your `clientId` nad `clientSecret` to obtain them you shoul
 
 And then in the `medusa-config.js` add the plugin and credentials.
 
-```js
+```Typescript
 const plugins = [
   // ...
   {
