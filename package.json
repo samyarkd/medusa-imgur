@@ -1,6 +1,6 @@
 {
   "name": "medusa-imgur",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use imgur with medusa to upload images.",
   "author": "SamyarKd <samyarkd@gmail.com>",
   "license": "MIT",
