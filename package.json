@@ -4,6 +4,9 @@
   "description": "Use imgur with medusa to upload images.",
   "author": "SamyarKd <samyarkd@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/samyarkd/medusa-imgur"
+  },
   "keywords": [
     "imgur",
     "medusajs",
